@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "username": "\"john_doefffffffffffffffffffffffffffff\"",
+    "firstName": "\"John\"",
+    "lastName": "\"Doe\"",
+    "email": "\"john.doe@example.com\"",
+    "password": "\"Secure@123\"",
+    "phone": "\"9876543210\"",
+    "userStatus": 1,
+    "code": 200,
+    "type": "\"unknown\"",
+    "message": "\"1\""
+  }
+]
